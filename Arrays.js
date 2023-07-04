@@ -62,5 +62,3 @@ var masUno = nums.map((num) => {
 });
 
 console.log(masUno);
-
-
