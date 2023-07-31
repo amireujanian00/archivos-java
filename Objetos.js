@@ -53,7 +53,7 @@ var tienePropiedad = libro.hasOwnProperty("autor");
 // console.log(tienePropiedad);
 
 var todasLasPropiedades = Object.keys(libro);
-// console.log(todasLasPropiedades);
+//console.log(todasLasPropiedades);
 
 var mundo = { continentes: 7, paises: 195, oceanos: 5 };
 
